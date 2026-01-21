@@ -1,7 +1,7 @@
 ## GUIJORGE14  
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
-Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Escola Isaac Newton. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia e programação.
+Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Tenho conhecimentos iniciais em, HTML, CSS e JavaScript, e continuo aperfeiçoando juntamente com o curso, CDC, (Comunidade Dev Completo). Estou sempre disposto a aprender e evoluir minhas habilidades. E no momento meu foco é um estágio na área. Minha vontade de evoluir profissionalmente e minha curiosidade por resolver problemas me motivam a explorar novas linguagens e frameworks, sempre em busca de desafios que possam me ensinar algo em troca.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -60,47 +60,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Concluí o 
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 <img 
     align="left" 
