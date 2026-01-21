@@ -1,7 +1,7 @@
 ## GUIJORGE14  
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Isaac Newton. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia e programação.
+Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Escola Isaac Newton. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia e programação.
 
 
 ### 🤖 Linguagens e Tecnologias
