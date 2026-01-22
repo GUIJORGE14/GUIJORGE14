@@ -81,7 +81,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
