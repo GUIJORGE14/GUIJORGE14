@@ -74,8 +74,6 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 
 <img 
       align="left" 
