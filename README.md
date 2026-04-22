@@ -22,7 +22,11 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 ---    
 
-<img src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" width="220px" align="right" style="display: block; margin: -80px 0;" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <img src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" width="220px" />
+
+</div>
 
 ### 🤖 **Linguagens e Tecnologias**
 
