@@ -1,26 +1,34 @@
-## GUIJORGE14  
-**`Desenvolvedor Front-End`**
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1883ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Jorge!;Eu+curso+análise+e+desenvoivimento+de+sistemas+na+UNICID;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg) 
+
+<br>
+
+<br> 
+
+# 🧑🏾‍💻 **`Desenvolvedor de Software`**
+
+<br>
 
 Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Tenho conhecimentos iniciais em, Python,  HTML, CSS e JavaScript, e continuo aperfeiçoando juntamente com o curso, CDC, (Comunidade Dev Completo). Estou sempre disposto a aprender e evoluir minhas habilidades. E no momento meu foco é um estágio na área. Minha vontade de evoluir profissionalmente e minha curiosidade por resolver problemas me motivam a explorar novas linguagens e frameworks, sempre em busca de desafios que possam me ensinar algo em troca.
 
 
+[![E-mail](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=1883ff&color:FFF)](https://x.com/guidevv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=1883ff&color:FFF)](https://www.linkedin.com/in/guilherme-jorge14/)
+[![Instagram](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=1883ff&color:FFF)](https://www.instagram.com/mari4.souza/)
+
+---    
+<br>
+    
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -37,6 +45,22 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -62,14 +86,39 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 <br/>
 <br/>
+<br>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guijorge14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijorge14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
