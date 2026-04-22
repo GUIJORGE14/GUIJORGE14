@@ -21,16 +21,15 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 [![Instagram](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=1883ff&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 ---    
-<br>
 
 <img 
   src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" 
   width="220px" 
   align="right" 
-  style="position: relative; top: -100px;"
+  style="position: relative; top: -80px;"
 />
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 **Linguagens e Tecnologias**
 
 <img 
     align="left" 
@@ -103,7 +102,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 ---
 
-### 📊 Estatísticas
+### 📊 **Estatísticas**
 
 <p>
   <img 
