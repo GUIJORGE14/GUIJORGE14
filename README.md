@@ -1,4 +1,4 @@
-
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1883ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Jorge!;Eu+curso+análise+e+desenvoivimento+de+sistemas+na+UNICID;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
 
@@ -23,7 +23,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 ---    
 <br>
 
-<img src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" width="250px" align="right" />
+<img src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" width="250px" align="right" tyle="margin-top: -60px;" />
     
 ### 🤖 Linguagens e Tecnologias
 
