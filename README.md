@@ -12,6 +12,9 @@
 
 Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Tenho conhecimentos iniciais em, Python,  HTML, CSS e JavaScript, e continuo aperfeiçoando juntamente com o curso, CDC, (Comunidade Dev Completo). Estou sempre disposto a aprender e evoluir minhas habilidades. E no momento meu foco é um estágio na área. Minha vontade de evoluir profissionalmente e minha curiosidade por resolver problemas me motivam a explorar novas linguagens e frameworks, sempre em busca de desafios que possam me ensinar algo em troca.
 
+<br>
+
+**Conecte comigo!**
 
 [![E-mail](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=1883ff&color:FFF)](https://x.com/guidevv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=1883ff&color:FFF)](https://www.linkedin.com/in/guilherme-jorge14/)
@@ -91,6 +94,8 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 <br/>
 <br>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -111,7 +116,8 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 </p>
 
-#
+<br>
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guijorge14/guijorge14/output/github-contribution-grid-snake-dark.svg">
