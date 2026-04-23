@@ -1,8 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1883ff&height=120&section=header"/>
 
+
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1883ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Jorge!;Eu+Curso+análise+e+desenvoivimento+de+sistemas+na+UNICID;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
+
+<p align="center">
+  <br>
+  <img width="680" alt="pixel-art-background" src="https://github.com/user-attachments/assets/7b41935a-84ee-4473-a23f-0e36cc96cdc1" />
+</p>
 
 <br>
 
@@ -133,11 +140,6 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
   />
 
   </p>
-
-
- <img align="center" width="680" height="325" alt="draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene" src="https://github.com/user-attachments/assets/7b41935a-84ee-4473-a23f-0e36cc96cdc1" />
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1883ff&height=120&section=footer"/>
