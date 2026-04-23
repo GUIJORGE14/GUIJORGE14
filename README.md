@@ -22,15 +22,26 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=1883ff&color:FFF)](https://www.linkedin.com/in/guilherme-jorge14/)
 [![Instagram](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=1883ff&color:FFF)](https://www.instagram.com/mari4.souza/)
 
----    
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+--- 
 
-  <img src="https://github.com/user-attachments/assets/8df86bbf-bafd-4c27-9148-4925fbd8a931" width="220px" />
+<!-- Dropdown -->
+<details>
+ <summary><strong> 🧑🏾‍💻 Mais sobre mim</strong></summary>
 
-</div>
+  - 💬 No ano de 2026 estou com o foco total para conquistar minha vaga na aréa de T.I, quero trabalhar com Dados ou Desenvolvimento, ou até mesmo os dois juntos hahahah. Para que isso aconteca, no momento estou matriculado no curso CDC, o principal, que precisei investir meu dinheiro. Me matriculei também na plataforma DIO, para me aprofundar em assuntos do momento, que näo acha com tanta facilidade (gratuito), e mensalmente realizo as aulas de jornada da Hashtag, uma empresa que orquestra aulas gratuitas para pessoas interassadas na aréa de desenvolvimento e dados. E todas elas no final da realizacão do curso, emite-se o certificado de conclusão. Então acredito que todo esse esforco será recompensado no futuro, meu progresso será registrado através do LinkedIn e aqui no GitHub!
+
+  - ⚡  Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes, jogar e ouvir música! Meu artista preferido é o Tevito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
+</details>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fzkr4nm5puvyu573fmwv6sbq4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 
 ### 🤖 **Linguagens e Tecnologias**
+
+<br> 
 
 <img 
     align="left" 
@@ -99,13 +110,14 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 <br/>
 <br/>
-<br>
 
 ---
 
 ### 📊 **Estatísticas**
 
-<p>
+<br>
+
+  <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -113,7 +125,6 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=guijorge14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -121,20 +132,13 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijorge14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-
-<br>
-<br>
+  </p>
 
 
+ <img align="center" width="680" height="325" alt="draw-pixel-art-background-tileset-animated-gif-for-video-game-environment-scene" src="https://github.com/user-attachments/assets/7b41935a-84ee-4473-a23f-0e36cc96cdc1" />
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guijorge14/guijorge14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guijorge14/guijorge14/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guijorge14/github/output/github-contribution-grid-snake.svg">
-</picture>
 
-<br>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1883ff&height=120&section=footer"/>
 
