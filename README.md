@@ -15,11 +15,11 @@
 
 <br> 
 
-# 🧑🏾‍💻 **`Desenvolvedor de Software`**
+# 🧑🏾‍💻 **`Desenvolvedor de Software/Analista de dados`**
 
 <br>
 
-Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Tenho um base sólida em Python, e ando estudano bastante ferramentas como, JavaScript, TypeScipt, SQL e Power BI, continuo aperfeiçoando juntamente com o curso, CDC, (Comunidade Dev Completo). Estou sempre disposto a aprender e evoluir minhas habilidades. E no momento meu foco é um estágio na área. Minha vontade de evoluir profissionalmente e minha curiosidade por resolver problemas me motivam a explorar novas linguagens e frameworks, sempre em busca de desafios que possam me ensinar algo em troca.
+Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Possuo uma base sólida em Python, ando estudando bastante JavaScript, TypeScipt, React, Node.js, SQL e Power BI, aperfeiçoando este meu conhecimento juntamente com o curso CDC, (Comunidade Dev Completo). Estou sempre disposto a aprender e evoluir minhas habilidades. E no momento meu foco é um estágio na área de desenvolvimento ou dados. Minha vontade de evoluir profissionalmente e minha curiosidade por resolver problemas me motivam a explorar novas linguagens e frameworks, sempre em busca de desafios que possam me ensinar algo em troca.
 
 <br>
 
