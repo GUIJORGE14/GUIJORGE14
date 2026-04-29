@@ -40,7 +40,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
   - ⚡  Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes, jogar e ouvir música! Meu artista preferido é o Tevito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 
-<img width="1666" height="463" alt="Captura de tela 2026-04-29 123156" src="https://github.com/user-attachments/assets/d47408ae-0ffa-4408-9481-0b4973ad77f9" />
+
 
 </details>
 
