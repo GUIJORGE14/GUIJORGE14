@@ -39,7 +39,11 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
   - 💬 No ano de 2026 estou com o foco total para conquistar minha vaga na aréa de T.I, quero trabalhar com Dados ou Desenvolvimento, ou até mesmo os dois juntos hahahah. Para que isso aconteca, no momento estou matriculado no curso CDC, o principal, que precisei investir meu dinheiro. Me matriculei também na plataforma DIO, para me aprofundar em assuntos do momento, que näo acha com tanta facilidade (gratuito), e semanalmente realizo as aulas de jornada da Hashtag, uma empresa que orquestra aulas gratuitas para pessoas interassadas na aréa de desenvolvimento e dados. E todas elas no final da realizacão do curso, emite-se o certificado de conclusão. Então acredito que todo esse esforco será recompensado no futuro, meu progresso será registrado através do LinkedIn e aqui no GitHub!
 
   - ⚡  Eu gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes, jogar e ouvir música! Meu artista preferido é o Tevito! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
+
+<img width="1666" height="463" alt="Captura de tela 2026-04-29 123156" src="https://github.com/user-attachments/assets/d47408ae-0ffa-4408-9481-0b4973ad77f9" />
+
 </details>
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fzkr4nm5puvyu573fmwv6sbq4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
