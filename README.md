@@ -27,7 +27,7 @@ Me chamo Guilherme Jorge, tenho 19 anos e sou natural de São Paulo. Atualmente,
 
 [![E-mail](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=x&logoColor=1883ff&color:FFF)](https://x.com/guidevv)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=1883ff&color:FFF)](https://www.linkedin.com/in/guilherme-jorge14/)
-[![Instagram](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=1883ff&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![Instagram](https://img.shields.io/badge/-Youtube-000?style=for-the-badge&logo=youtube&logoColor=1883ff&color:FFF)](https://www.youtube.com/@guijorge14)
 
 
 --- 
